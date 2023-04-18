@@ -12,7 +12,7 @@
 -   ejecutar xammp
 -   ir a la ruta de xammp 
 -   en la carpeta de htdocs abrir cmd y poner: 
--   gh repo clone MiCa-ke/BilleteraMovil
+-   gh repo clone
 -   duplicar el archivo .env example
 -   cambiar nombre a .env
 -   Abrimos el VSC en la carpeta creada recien y pegamos en la terminal:
